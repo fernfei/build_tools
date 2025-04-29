@@ -3,7 +3,7 @@ name: Build OnlyOffice Arm Ver
 on:
   push:
     branches:
-      - tags/v8.1.0.8
+      - v8.1.0.8
   workflow_dispatch:
 
 jobs:
